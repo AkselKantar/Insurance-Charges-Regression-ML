@@ -1,6 +1,6 @@
 # Insurance-Charges-Regression-ML
 
-Insurance Charges Regression Model by trying
+Insurance Charges Regression Model by implementing
 
 LinearRegression
 SVR
